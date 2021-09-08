@@ -1,0 +1,86 @@
+h1{
+    font-family: 'Urbanist';
+}
+
+h3{
+    font-family: sans-serif;
+}
+
+h4{
+    font-family: 'Quicksand';
+}
+
+h2{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+li{
+    font-family: 'Quicksand';
+}
+
+body{
+    height: 550px;
+    width: 500px;
+    padding: 50px;
+  float: right;
+  background-color: white;
+  margin-right: 10%;
+   
+}
+
+.music{
+    height: 75px;
+    width: 75px;
+    float: left;
+    position: absolute;
+    left: 700px;
+    bottom: 5px;
+}
+
+.target{
+    height: 75px;
+    width: 75px;
+    float: right;
+    position: absolute;
+    right: 200px;
+    bottom: 5px;
+}
+
+.movie{
+    height: 75px;
+    width: 75px;
+    float: left;
+    position: absolute;
+    bottom: 5px;
+    right: 400px;
+}
+
+.music2{
+    position: absolute;
+    bottom: 70px;
+    left: 715px;
+    font-family: 'Quicksand';
+}
+
+.self{
+    position: absolute;
+    bottom: 70px;
+    right: 193px;
+    font-family: 'Quicksand';
+}
+
+.movie2{
+    position: absolute;
+    bottom: 70px;
+    right: 400px;
+    font-family: 'Quicksand';
+}
+
+.man{
+    position: absolute;
+    left: 250px;
+    bottom: 5px;
+    width: 360px;
+    height: 600px;
+}
